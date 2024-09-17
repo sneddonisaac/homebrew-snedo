@@ -6,6 +6,6 @@ class HeadlessCLI < Formula
   version "0.1.0"
 
   def install
-    bin.install "headless-cli"
+    bin.install "HeadlessCLI"
   end
 end
